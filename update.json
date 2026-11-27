@@ -1,18 +1,18 @@
 {
   "version": "1.0.0",
-  "sha256": "f97e87b0794fe2e9cc5f5eb9775e4555be81826c06bbd670096f84087248cd22",
-  "sha1": "9a0a0efc91266b1e998b4e4cd523c2f3accba96f",
+  "sha256": "dd38bec7a525d58ce5ffec592a22942d3fcc1c7cb52d61d6d4aa35083200ea61",
+  "sha1": "038b9c0283a11a98f0561c902aedc7830211e4d0",
   "jar_url": "PioClient-1.8.9-1.0.0.jar",
   "1.8.9": {
     "version": "1.0.0",
-    "sha256": "f97e87b0794fe2e9cc5f5eb9775e4555be81826c06bbd670096f84087248cd22",
-    "sha1": "9a0a0efc91266b1e998b4e4cd523c2f3accba96f",
+    "sha256": "dd38bec7a525d58ce5ffec592a22942d3fcc1c7cb52d61d6d4aa35083200ea61",
+    "sha1": "038b9c0283a11a98f0561c902aedc7830211e4d0",
     "jar_url": "PioClient-1.8.9-1.0.0.jar"
   },
   "1.21.4": {
     "version": "1.0.0",
-    "sha256": "b9f48ebbfd0ef161fba7704fbb3ed15269e74f5c9c916d398bf9bf74357c0445",
-    "sha1": "66323810b964494e602d2f40f2b40bdc2d3dee2b",
+    "sha256": "782c45c05c6f9228073aed50370a51f5ecbd28e7d21fe83efe5d4b05683f7b10",
+    "sha1": "b289ceeead5a9b9447156dc85b0b31e4dc439416",
     "jar_url": "PioClient-1.21.4-1.0.0.jar"
   }
 }
