@@ -11,8 +11,8 @@
   },
   "1.21.4": {
     "version": "1.0.0",
-    "sha256": "26187930a97801f29f378cca5ca6cb6f786a5a125ac37fe80a9ae58732424d85",
-    "sha1": "fd4b593b6f3b1250fc9e6719db059d90b0d75184",
+    "sha256": "8d8e3ce1e3adfbbafa57fbaf07415a37ace8158da9b7b2211557d91a80e98727",
+    "sha1": "996cbeb3ba7cd88c23231c7df8c12c53569b3d15",
     "jar_url": "PioClient-1.21.4-1.0.0.jar"
   }
 }
